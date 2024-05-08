@@ -2,6 +2,10 @@
 
 This is a simple notes taking application built using HTML, CSS, and JavaScript. It allows users to create, edit, and delete notes, which are stored locally in the browser's storage.
 
+## Live Demo
+
+You can access the live demo of this project [here](https://vaibhavupadhyayy.github.io/notes/).
+
 ## Features
 
 - Create new notes by clicking the "Create Notes" button.
@@ -23,9 +27,6 @@ This is a simple notes taking application built using HTML, CSS, and JavaScript.
 - `index.css`: CSS file containing styles for the application.
 - `script.js`: JavaScript file containing the logic for creating, editing, and deleting notes.
 
-## Live Demo
-
-You can access the live demo of this project [here](https://vaibhavupadhyayy.github.io/notes/).
 
 ## Contributing
 
