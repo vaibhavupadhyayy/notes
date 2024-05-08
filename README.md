@@ -23,6 +23,10 @@ This is a simple notes taking application built using HTML, CSS, and JavaScript.
 - `index.css`: CSS file containing styles for the application.
 - `script.js`: JavaScript file containing the logic for creating, editing, and deleting notes.
 
+## Live Demo
+
+You can access the live demo of this project [here](https://vaibhavupadhyayy.github.io/notes/).
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
